@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hell, I'm Douglas Lopes<br>Coolest dotnet developer.<br>I help companies to get better results from their software.
+Hello, I'm Douglas Lopes<br>Coolest dotnet developer.<br>I help companies to get better results from their software.
 
 
 ## 🌐 Socials:
